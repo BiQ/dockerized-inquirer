@@ -1,6 +1,6 @@
 {
   "name": "dockerized-inquirer",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A dockerized GraphQL Inquirer instance that can be spun up and pointed to a graphql endpoint",
   "main": "index.js",
   "scripts": {
