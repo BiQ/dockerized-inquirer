@@ -8,8 +8,9 @@
     "watch": "webpack --config webpack.config.js --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Victor Eg Frølund",
   "license": "ISC",
+  "repository": "git@github.com:BiQ/dockerized-inquirer.git",
   "devDependencies": {
     "@babel/core": "^7.1.5",
     "@babel/preset-env": "^7.1.5",
