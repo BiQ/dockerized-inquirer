@@ -77,7 +77,7 @@
 /******/ 	__webpack_require__.o = function(object, property) { return Object.prototype.hasOwnProperty.call(object, property); };
 /******/
 /******/ 	// __webpack_public_path__
-/******/ 	__webpack_require__.p = "/Users/vef/Documents/projects/code/dockerized-inquirer/dist/";
+/******/ 	__webpack_require__.p = "/Users/jansen/Sync/Code/docker/dockerized-inquirer/dist/";
 /******/
 /******/
 /******/ 	// Load entry module and return exports

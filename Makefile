@@ -1,6 +1,6 @@
 .PHONY: dockerbuild dockerrun dockerpush
 TAG = $$(git describe --abbrev=0)
-ORG = biqaps
+ORG = biqapsdatamanager
 NAME = dockerized-inquirer
 
 dockerbuild:
